@@ -1,0 +1,4 @@
+division,total_sales,total_cost,total_gross_profit,total_units,order_lines,n_orders,avg_row_margin_pct,gross_margin_pct,profit_per_unit,revenue_per_unit,cost_per_unit,cost_ratio_pct,revenue_share_pct,profit_share_pct,revenue_vs_profit_imbalance_pp,margin_volatility_std,margin_mean,months,margin_volatility_cv,efficiency_class
+Chocolate,131692.9,42868.28,88824.62,37275,9844,8205,67.4582,67.4483,2.383,3.533,1.1501,32.5517,92.883,95.0577,-2.1747,0.2438,67.4025,24,0.0036,Strong Financial Efficiency
+Other,9663.25,5329.8,4333.45,1242,310,304,37.6725,44.8446,3.4891,7.7804,4.2913,55.1554,6.8155,4.6375,2.1779,10.1666,40.0479,24,0.2539,Structural Margin Issues
+Sugar,427.48,142.75,284.73,137,40,40,57.689,66.6066,2.0783,3.1203,1.042,33.3934,0.3015,0.3047,-0.0032,11.0839,61.7958,16,0.1794,Strong Financial Efficiency
